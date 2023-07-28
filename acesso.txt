@@ -1,1 +1,3 @@
-password_acesso_teste
+{
+  value: password_acesso_teste
+}
